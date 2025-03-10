@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "Bushaltestellen_5",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "BusHalte": "Fachhochschule" }, "geometry": { "type": "Point", "coordinates": [ 7.034987651586992, 49.345306674095589 ] } },
+{ "type": "Feature", "properties": { "id": null, "BusHalte": "Göttelborn Markt" }, "geometry": { "type": "Point", "coordinates": [ 7.030955438460103, 49.345344844890846 ] } },
+{ "type": "Feature", "properties": { "id": null, "BusHalte": "Grube" }, "geometry": { "type": "Point", "coordinates": [ 7.039368230532451, 49.344811969778803 ] } }
+]
+}

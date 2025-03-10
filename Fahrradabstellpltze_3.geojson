@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fahrradabstellpltze_3",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 21, "Stelle": 6, "Art": "Überdacht", "Fahrradparkplatz": " ", "Anlehnbügel": 3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 7.031637278633201, 49.344014132784999 ], [ 7.03160854847402, 49.343986926159509 ], [ 7.031637612704821, 49.343973214014518 ], [ 7.031668681365328, 49.344000638300649 ], [ 7.031637278633201, 49.344014132784999 ] ] ] } }
+]
+}
